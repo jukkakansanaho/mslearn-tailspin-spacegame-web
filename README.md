@@ -1,4 +1,18 @@
+_Microsoft Learn: Build applications with Azure DevOps course | jukka.kansanaho@gmail.com | 2021-01-23_
+[![Build Status](https://dev.azure.com/jukkakansanaho/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jukkakansanaho/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
+# Build applications with Azure DevOps
+This example code is a part of Azure Devops course series:
+- Evolve your DevOps practices
+  - Course page: https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/
+- Build applications with Azure DevOps
+  - Course page: https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/
+- Deploy applications with Azure DevOps
+  - Course page: https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/
+
+- NOTE: This repo has been forked from: https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web
+  
+_Original text_
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
